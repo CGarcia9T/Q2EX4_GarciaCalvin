@@ -1,0 +1,15 @@
+body {
+	background-color: #47663B;
+}
+
+.container {
+	background-color: #1F4529;
+	padding: 15px;
+	color: #E8ECD7;
+	border-radius: 10px;
+	font-family: courier;
+}
+
+.container2 {
+	padding: 15px;
+}
